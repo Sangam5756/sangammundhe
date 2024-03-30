@@ -12,7 +12,7 @@
   </a>
   <a href="https://www.linkedin.com/in/sangammundhe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+ 
 </div>
 
 <hr/>
@@ -43,6 +43,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+<!--   https://leetcode.com/sangammunde3/ -->
+  <img width=390 src="https://leetcode.card.workers.dev/sangammunde3?theme=dark&font=baloo&extension=null&theme=dark"/>
 
 </div>
 
