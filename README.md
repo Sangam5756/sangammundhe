@@ -57,7 +57,7 @@
 
 <div align=center>
 
-<img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/f3bc9fbf-8b5c-45fe-9472-feb31f99f0d2.svg"/>
+<img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
 </div>
 
 
