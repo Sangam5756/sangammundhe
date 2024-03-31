@@ -54,9 +54,11 @@
 <hr/>
 
 <br/>
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+<div align=center>
+
+<img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/cc3f94bb-e88a-4a96-8157-8fc43745e260.svg"/>
+</div>
 
 
 
