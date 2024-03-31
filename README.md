@@ -53,11 +53,9 @@
 <hr/>
 
 <br/>
+<!--START_SECTION:waka-->
 
-<img
-  src="https://github.com/Sangam5756/Sangam5756/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--END_SECTION:waka-->
 
 
 
