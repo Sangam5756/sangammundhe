@@ -12,9 +12,8 @@
   <a href="https://www.linkedin.com/in/sangammundhe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
-<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <br>
@@ -22,14 +21,10 @@
 </div>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>🐍 My Contributions 🐍</h2> 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sangam5756/sangammundhe/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+ </div>
 <hr/>
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
