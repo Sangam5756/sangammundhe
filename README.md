@@ -1,4 +1,4 @@
-<img align="right" src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c/project/018e932a-3a73-4302-b5ed-3f5873c54ae6.svg" />
+<img align="right" src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" />
 
 <h1 align="center">
