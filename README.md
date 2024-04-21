@@ -36,7 +36,9 @@
 <!--   https://leetcode.com/sangammunde3/ -->
   <img width=390 src="https://leetcode.card.workers.dev/sangammunde3?theme=dark&font=baloo&extension=null&theme=dark"/>
     <br>
-  <img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
-    <img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/6cb3c106-0d30-47b4-922e-5ec61f2f756d.svg"/>
+    click on Image
+    <br>
+  <img  width=400 height=300 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
+    <img  width=400 height=300 src="https://wakatime.com/share/@sangammundhe/6cb3c106-0d30-47b4-922e-5ec61f2f756d.svg"/>
     
 </div>
