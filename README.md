@@ -34,7 +34,8 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 <!--   https://leetcode.com/sangammunde3/ -->
-  <img width=390 src="https://leetcode.card.workers.dev/sangammunde3?theme=dark&font=baloo&extension=null&theme=dark"/>
+    
+  <img width=390 src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
     <br>
     click on Image
     <br>
