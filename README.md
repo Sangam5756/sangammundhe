@@ -32,7 +32,7 @@
 <h2 align="center">⚡  Stats  ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/> -->
+  <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 <!--   https://leetcode.com/sangammunde3/ -->
     
   <img width=700 height=300 src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
