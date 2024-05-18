@@ -32,10 +32,12 @@
 <h2 align="center">⚡  Stats  ⚡</h2>
 <br>
 <div align=center>
+    
+  <img width=700 height=300 src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/> -->
 <!--   https://leetcode.com/sangammunde3/ -->
     
-  <img width=700 height=300 src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
+ <img width=800  src="https://github-readme-activity-graph.vercel.app/graph?username=Sangam5756&theme=dracula" alt="streak stats"/> 
     <br>
     click on Image
     <br>
