@@ -11,11 +11,11 @@
   </a>
   <a href="https://www.linkedin.com/in/sangammundhe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-       <a href="https://wakatime.com/@sangammundhe" target="_blank">
+  </a>
+  <a href="https://wakatime.com/@sangammundhe" target="_blank">
     <img src="https://img.shields.io/badge/wakatime-black?style=for-the-badge" target="_blank" />
-
+  </a>
 </div>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
@@ -25,20 +25,19 @@
 </div>
 
 <hr/>
-<h2 align="center">⚡  Stats  ⚡</h2>
-<br>
-<div align=center>
-    
-  
-  <img width=400  src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
-  <img width=400 height=200 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/> 
-<!--   https://leetcode.com/sangammunde3/ -->
-    
- <img width=800  src="https://github-readme-activity-graph.vercel.app/graph?username=Sangam5756&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="streak stats"/> 
+
+<details>
+  <summary><h2 align="center">⚡  Stats  ⚡</h2></summary>
+  <div align=center>
+    <br>
+    <img width=400  src="https://leetcard.jacoblin.cool/sangammunde3?theme=dark&font=Comfortaa&ext=heatmap"/>
+    <img width=400 height=200 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/> 
+    <!-- https://leetcode.com/sangammunde3/ -->
+    <img width=800  src="https://github-readme-activity-graph.vercel.app/graph?username=Sangam5756&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="streak stats"/> 
     <br>
     click on Image
     <br>
-  <img  width=400 height=300 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
-    <img  width=400 height=300 src="https://wakatime.com/share/@sangammundhe/6cb3c106-0d30-47b4-922e-5ec61f2f756d.svg"/>
-    
-</div>
+    <img width=400 height=300 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
+    <img width=400 height=300 src="https://wakatime.com/share/@sangammundhe/6cb3c106-0d30-47b4-922e-5ec61f2f756d.svg"/>
+  </div>
+</details>
