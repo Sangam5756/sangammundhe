@@ -1,5 +1,6 @@
-<img align="left"  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" alt="coding time"/> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" />
-
+<img align="left"  src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c.svg" alt="coding time"/> 
+<img align="left" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25279%26project%3D%26in=0">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" />
 
 <br>
 
